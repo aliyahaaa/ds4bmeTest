@@ -1,9 +1,9 @@
 # ds4bmeTest
-# README changes
-## Introduction and Purposes
+# README change
+## Change
 This is the change is for the assignment 1.
 Initially this was blank files.
-### Conclusions
+### Table 
 ---
 I wanted to try to make a table for this README.md file
 | Pros | Cons|
